@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Abdi Gashahun! 👋</h2>
+<h2 align="center">Hi there, I'm Abdi Gashahun 👋</h2>
 
 ###
  <h3 align="center">I passionate problem solver!</h3>
